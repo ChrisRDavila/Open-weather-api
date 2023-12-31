@@ -1,8 +1,8 @@
-# (Application Name)
+# Open Weather API
 
-#### (Brief Description of Application)
+#### Make API call to weather api to display info
 
-#### By (Your Name Here)
+#### By Christopher Davila
 
 ## Technologies Used
 
